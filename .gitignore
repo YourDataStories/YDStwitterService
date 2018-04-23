@@ -1,0 +1,30 @@
+node_modules/
+bower_components/
+coverage/
+.sass-cache/
+.idea/
+.tmp/
+dist/
+
+# Created by https://www.gitignore.io/api/netbeans
+### NetBeans ###
+#nbproject/private/ ## Ignore the whole project dir
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+# End of https://www.gitignore.io/api/netbeans
+
+# Created by https://www.gitignore.io/api/visualstudiocode
+### VisualStudioCode ###
+#.vscode/*                  ## Ignore the whole vscode dir
+#!.vscode/settings.json
+#!.vscode/tasks.json
+#!.vscode/launch.json
+#!.vscode/extensions.json
+.vscode/
+.history
+# End of https://www.gitignore.io/api/visualstudiocode
